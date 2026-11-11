@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T11:41:32.128Z",
+  "generated_at": "2026-11-11T22:19:07.489Z",
   "items": {
     "math:34": {
       "kind": "math",
@@ -22,6 +22,17 @@
       "path": "math/0032-softmax-and-cross-entropy",
       "first_solved_at": "2026-10-24T11:41:31.357Z",
       "last_pushed_at": "2026-10-24T11:41:31.357Z"
+    },
+    "math:604": {
+      "kind": "math",
+      "id": "604",
+      "title": "The KV Cache in Numbers: 800 KB per Token and How Many Requests Fit",
+      "difficulty": "easy",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/604",
+      "path": "math/0604-the-kv-cache-in-numbers-800-kb-per-token-and-how-many-requests-fit",
+      "first_solved_at": "2026-11-11T22:19:06.773Z",
+      "last_pushed_at": "2026-11-11T22:19:06.773Z"
     }
   }
 }
