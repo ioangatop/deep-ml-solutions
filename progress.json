@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T00:11:39.848Z",
+  "generated_at": "2026-11-12T10:02:55.255Z",
   "items": {
     "math:34": {
       "kind": "math",
@@ -55,6 +55,17 @@
       "path": "math/0606-choosing-the-kv-block-size-fragmentation-sharing-and-swap-transfers",
       "first_solved_at": "2026-11-12T00:11:39.058Z",
       "last_pushed_at": "2026-11-12T00:11:39.058Z"
+    },
+    "math:605": {
+      "kind": "math",
+      "id": "605",
+      "title": "Memory Saved by Sharing KV Blocks: Parallel Sampling and Beam Search",
+      "difficulty": "medium",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/605",
+      "path": "math/0605-memory-saved-by-sharing-kv-blocks-parallel-sampling-and-beam-search",
+      "first_solved_at": "2026-11-12T10:02:54.514Z",
+      "last_pushed_at": "2026-11-12T10:02:54.514Z"
     }
   }
 }
