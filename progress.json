@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T22:19:07.489Z",
+  "generated_at": "2026-11-12T00:05:05.333Z",
   "items": {
     "math:34": {
       "kind": "math",
@@ -33,6 +33,17 @@
       "path": "math/0604-the-kv-cache-in-numbers-800-kb-per-token-and-how-many-requests-fit",
       "first_solved_at": "2026-11-11T22:19:06.773Z",
       "last_pushed_at": "2026-11-11T22:19:06.773Z"
+    },
+    "math:67": {
+      "kind": "math",
+      "id": "67",
+      "title": "PagedAttention Internal Fragmentation",
+      "difficulty": "easy",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/67",
+      "path": "math/0067-pagedattention-internal-fragmentation",
+      "first_solved_at": "2026-11-12T00:05:04.556Z",
+      "last_pushed_at": "2026-11-12T00:05:04.556Z"
     }
   }
 }
