@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T00:05:05.333Z",
+  "generated_at": "2026-11-12T00:11:39.848Z",
   "items": {
     "math:34": {
       "kind": "math",
@@ -44,6 +44,17 @@
       "path": "math/0067-pagedattention-internal-fragmentation",
       "first_solved_at": "2026-11-12T00:05:04.556Z",
       "last_pushed_at": "2026-11-12T00:05:04.556Z"
+    },
+    "math:606": {
+      "kind": "math",
+      "id": "606",
+      "title": "Choosing the KV Block Size: Fragmentation, Sharing and Swap Transfers",
+      "difficulty": "medium",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/606",
+      "path": "math/0606-choosing-the-kv-block-size-fragmentation-sharing-and-swap-transfers",
+      "first_solved_at": "2026-11-12T00:11:39.058Z",
+      "last_pushed_at": "2026-11-12T00:11:39.058Z"
     }
   }
 }

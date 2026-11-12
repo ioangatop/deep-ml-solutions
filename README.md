@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**4** solved · 0 problems · 0 labs · 4 math
+**5** solved · 0 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [PagedAttention Internal Fragmentation](https://www.deep-ml.com/math-problems/67) | easy | 2026-11-12 | [solution](math/0067-pagedattention-internal-fragmentation) |
 | [The KV Cache in Numbers: 800 KB per Token and How Many Requests Fit](https://www.deep-ml.com/math-problems/604) | easy | 2026-11-11 | [solution](math/0604-the-kv-cache-in-numbers-800-kb-per-token-and-how-many-requests-fit) |
+| [Choosing the KV Block Size: Fragmentation, Sharing and Swap Transfers](https://www.deep-ml.com/math-problems/606) | medium | 2026-11-12 | [solution](math/0606-choosing-the-kv-block-size-fragmentation-sharing-and-swap-transfers) |
 | [Least Squares and the Normal Equations](https://www.deep-ml.com/math-problems/34) | medium | 2026-10-24 | [solution](math/0034-least-squares-and-the-normal-equations) |
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-10-24 | [solution](math/0032-softmax-and-cross-entropy) |
 
