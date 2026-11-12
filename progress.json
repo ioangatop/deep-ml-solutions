@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T10:02:55.255Z",
+  "generated_at": "2026-11-12T12:58:21.198Z",
   "items": {
     "math:34": {
       "kind": "math",
@@ -66,6 +66,17 @@
       "path": "math/0605-memory-saved-by-sharing-kv-blocks-parallel-sampling-and-beam-search",
       "first_solved_at": "2026-11-12T10:02:54.514Z",
       "last_pushed_at": "2026-11-12T10:02:54.514Z"
+    },
+    "math:24": {
+      "kind": "math",
+      "id": "24",
+      "title": "Information Theory: Entropy",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/24",
+      "path": "math/0024-information-theory-entropy",
+      "first_solved_at": "2026-11-12T12:58:20.531Z",
+      "last_pushed_at": "2026-11-12T12:58:20.531Z"
     }
   }
 }
