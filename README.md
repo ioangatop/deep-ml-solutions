@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**7** solved · 0 problems · 0 labs · 7 math
+**8** solved · 0 problems · 0 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Least Squares and the Normal Equations](https://www.deep-ml.com/math-problems/34) | medium | 2026-10-24 | [solution](math/0034-least-squares-and-the-normal-equations) |
 | [Memory Saved by Sharing KV Blocks: Parallel Sampling and Beam Search](https://www.deep-ml.com/math-problems/605) | medium | 2026-11-12 | [solution](math/0605-memory-saved-by-sharing-kv-blocks-parallel-sampling-and-beam-search) |
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-10-24 | [solution](math/0032-softmax-and-cross-entropy) |
+| [KL Divergence](https://www.deep-ml.com/math-problems/25) | hard | 2026-11-12 | [solution](math/0025-kl-divergence) |
 
 ---
 
