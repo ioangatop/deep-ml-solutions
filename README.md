@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**18** solved · 9 problems · 0 labs · 9 math
+**19** solved · 10 problems · 0 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Estimate KV Cache Size from Model Config](https://www.deep-ml.com/problems/418) | medium | 2026-11-25 | [solution](problems/0418-estimate-kv-cache-size-from-model-config) |
 | [Implement Batched Causal Self-Attention](https://www.deep-ml.com/problems/957) | medium | 2026-11-25 | [solution](problems/0957-implement-batched-causal-self-attention) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-11-25 | [solution](problems/0107-implement-masked-self-attention) |
+| [Implement Multiquery Attention (MQA)](https://www.deep-ml.com/problems/390) | medium | 2026-11-25 | [solution](problems/0390-implement-multiquery-attention-mqa) |
 | [KV Cache for Efficient Autoregressive Attention](https://www.deep-ml.com/problems/376) | medium | 2026-11-25 | [solution](problems/0376-kv-cache-for-efficient-autoregressive-attention) |
 | [Multi-Head Attention via Head Stacking](https://www.deep-ml.com/problems/958) | medium | 2026-11-25 | [solution](problems/0958-multi-head-attention-via-head-stacking) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-11-25 | [solution](problems/0094-implement-multi-head-attention) |
