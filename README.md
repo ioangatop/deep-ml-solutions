@@ -2,11 +2,17 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**9** solved · 0 problems · 0 labs · 9 math
+**10** solved · 1 problems · 0 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
 [**Browse the interactive portfolio**](https://ioangatop.github.io/deep-ml-solutions/) to replay this filling in over time.
+
+## Problems
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Simple Self-Attention Without Trainable Weights](https://www.deep-ml.com/problems/955) | easy | 2026-11-25 | [solution](problems/0955-simple-self-attention-without-trainable-weights) |
 
 ## Math
 

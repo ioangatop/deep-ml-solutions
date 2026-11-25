@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T13:29:49.054Z",
+  "generated_at": "2026-11-25T14:23:55.733Z",
   "items": {
     "math:34": {
       "kind": "math",
@@ -99,6 +99,19 @@
       "path": "math/0038-log-likelihood-gradients",
       "first_solved_at": "2026-11-12T13:29:48.446Z",
       "last_pushed_at": "2026-11-12T13:29:48.446Z"
+    },
+    "problem:955": {
+      "kind": "problem",
+      "id": "955",
+      "title": "Simple Self-Attention Without Trainable Weights",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/955",
+      "path": "problems/0955-simple-self-attention-without-trainable-weights",
+      "first_solved_at": "2026-11-25T14:23:54.997Z",
+      "last_pushed_at": "2026-11-25T14:23:54.997Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
