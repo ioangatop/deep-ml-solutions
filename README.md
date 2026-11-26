@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**21** solved · 12 problems · 0 labs · 9 math
+**22** solved · 13 problems · 0 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [KV Cache for Efficient Autoregressive Attention](https://www.deep-ml.com/problems/376) | medium | 2026-11-25 | [solution](problems/0376-kv-cache-for-efficient-autoregressive-attention) |
 | [Multi-Head Attention via Head Stacking](https://www.deep-ml.com/problems/958) | medium | 2026-11-25 | [solution](problems/0958-multi-head-attention-via-head-stacking) |
 | [RoPE with Position Offset for KV Cache](https://www.deep-ml.com/problems/1029) | medium | 2026-11-26 | [solution](problems/1029-rope-with-position-offset-for-kv-cache) |
+| [Implement a Sparse Mixture of Experts Layer](https://www.deep-ml.com/problems/125) | hard | 2026-11-26 | [solution](problems/0125-implement-a-sparse-mixture-of-experts-layer) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-11-25 | [solution](problems/0094-implement-multi-head-attention) |
 
 ## Math
