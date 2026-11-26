@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T18:15:48.775Z",
+  "generated_at": "2026-11-26T00:34:13.895Z",
   "items": {
     "math:34": {
       "kind": "math",
@@ -242,6 +242,19 @@
       "last_pushed_at": "2026-11-25T18:15:47.902Z",
       "language": "python",
       "lines": 40
+    },
+    "problem:1029": {
+      "kind": "problem",
+      "id": "1029",
+      "title": "RoPE with Position Offset for KV Cache",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1029",
+      "path": "problems/1029-rope-with-position-offset-for-kv-cache",
+      "first_solved_at": "2026-11-26T00:34:12.673Z",
+      "last_pushed_at": "2026-11-26T00:34:12.673Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
